@@ -11,7 +11,7 @@ O `main` reunirá todos os links diretos para as branches correspondentes às at
 
 - Atividade 1 - Aula 4 ()
 - Atividade 2 - Aula 4 ()
-- [Atividade 3 - Aula 6](https://github.com/ShayraKelly/Atividades_SD/tree/Atividade-Aula-6)
+- Atividade 3 - Aula 6 [Clique aqui para ir ao repositório](https://github.com/ShayraKelly/Atividades_SD/tree/Atividade-Aula-6)
 
 ## 📚 Projetos
 
